@@ -1,4 +1,3 @@
-say raycast failed!
 scoreboard players reset @s prideflags.bunting_distance
 
 # Remove tags
