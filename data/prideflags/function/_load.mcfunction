@@ -1,1 +1,7 @@
- scoreboard objectives add prideflags.dir dummy
+# Flags
+scoreboard objectives remove prideflags.dir
+scoreboard objectives add prideflags.dir dummy
+
+# Bunting
+scoreboard objectives add prideflags.bunting_distance dummy
+scoreboard players set $max prideflags.bunting_distance 20
