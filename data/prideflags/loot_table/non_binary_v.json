@@ -1,0 +1,146 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "player_head",
+                "!minecraft:food": {},
+                "!minecraft:consumable": {},
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE3NjZkOTYxYzMwMjM3NjFiNjA3NjhiNmYzMTlkYmViMzdjY2MzY2VlYWI5ZmQ2ZDMwNDU2ODliMzA5YTljYSJ9fX0="
+                    }
+                  ]
+                },
+                "custom_data": {
+                  "pride": 1,
+                  "pride_type": "non_binary_v"
+                },
+                "minecraft:custom_name": [
+                  {
+                    "color": "#FFF430",
+                    "italic": false,
+                    "text": "V"
+                  },
+                  {
+                    "color": "#FFF547",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#FFF65E",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#FFF875",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#FFF98C",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#FFFAA3",
+                    "text": "c"
+                  },
+                  {
+                    "color": "#FFFBBA",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#FFFDD1",
+                    "text": "l "
+                  },
+                  {
+                    "color": "#FFFEE8",
+                    "text": "N"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "text": "o"
+                  },
+                  {
+                    "color": "#F4ECFA",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#E9DAF5",
+                    "text": "-"
+                  },
+                  {
+                    "color": "#DEC7F0",
+                    "text": "B"
+                  },
+                  {
+                    "color": "#D3B5EB",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#C8A2E5",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#BD90E0",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#B27DDB",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#A76BD6",
+                    "text": "y "
+                  },
+                  {
+                    "color": "#9C58D1",
+                    "text": "P"
+                  },
+                  {
+                    "color": "#8F53BE",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#824EAC",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#764899",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#694386",
+                    "text": "e "
+                  },
+                  {
+                    "color": "#5C3E74",
+                    "text": "F"
+                  },
+                  {
+                    "color": "#4F3961",
+                    "text": "l"
+                  },
+                  {
+                    "color": "#43334E",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#292929",
+                    "text": "g"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "white_banner",
+  "result": {
+    "id": "minecraft:chorus_fruit",
+    "components": {
+      "minecraft:item_model": "player_head",
+      "!minecraft:food": {},
+      "!minecraft:consumable": {},
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZhNGIxMjJhZjJkZDFlMTNjZmZlOTAxZTQxYzI1ZTllMDMyNmU4YWYwYjAzNTQzNTI4NDhhMGQzNGQ0NmEyIn19fQ=="
+          }
+        ]
+      },
+      "custom_data": {
+        "pride": true,
+        "pride_type": "gay_mens_h"
+      },
+      "minecraft:custom_name": [
+        {
+          "italic": false,
+          "color": "#018E70",
+          "text": "H"
+        },
+        {
+          "color": "#189B7C",
+          "text": "o"
+        },
+        {
+          "color": "#2EA988",
+          "text": "r"
+        },
+        {
+          "color": "#45B694",
+          "text": "i"
+        },
+        {
+          "color": "#5BC4A1",
+          "text": "z"
+        },
+        {
+          "color": "#72D1AD",
+          "text": "o"
+        },
+        {
+          "color": "#88DFB9",
+          "text": "n"
+        },
+        {
+          "color": "#9DEAC4",
+          "text": "t"
+        },
+        {
+          "color": "#ACEDCD",
+          "text": "a"
+        },
+        {
+          "color": "#BBF0D6",
+          "text": "l "
+        },
+        {
+          "color": "#CAF4DF",
+          "text": "G"
+        },
+        {
+          "color": "#D9F7E8",
+          "text": "a"
+        },
+        {
+          "color": "#E8FAF1",
+          "text": "y "
+        },
+        {
+          "color": "#F7FDFA",
+          "text": "M"
+        },
+        {
+          "color": "#F5F9FD",
+          "text": "e"
+        },
+        {
+          "color": "#E2EDF9",
+          "text": "n"
+        },
+        {
+          "color": "#CEE1F5",
+          "text": "'"
+        },
+        {
+          "color": "#BBD6F0",
+          "text": "s "
+        },
+        {
+          "color": "#A8CAEC",
+          "text": "P"
+        },
+        {
+          "color": "#94BEE8",
+          "text": "r"
+        },
+        {
+          "color": "#81B2E4",
+          "text": "i"
+        },
+        {
+          "color": "#759ED7",
+          "text": "d"
+        },
+        {
+          "color": "#6B87C8",
+          "text": "e "
+        },
+        {
+          "color": "#616FB8",
+          "text": "F"
+        },
+        {
+          "color": "#5758A8",
+          "text": "l"
+        },
+        {
+          "color": "#4E4198",
+          "text": "a"
+        },
+        {
+          "color": "#3A1379",
+          "text": "g"
+        }
+      ]
+    }
+  }
+}

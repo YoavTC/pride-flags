@@ -1,0 +1,1 @@
+ scoreboard objectives add prideflags.dir dummy

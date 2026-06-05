@@ -1,0 +1,150 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "player_head",
+                "!minecraft:food": {},
+                "!minecraft:consumable": {},
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYwZjA4NDU4NWNhYjhmOTQwN2QyMDIzMWY5ODQyZTAxOGJhM2ZkZGQwY2E0NjZjYjllOTUwYzkzOWZlOGM3YiJ9fX0="
+                    }
+                  ]
+                },
+                "custom_data": {
+                  "pride": 1,
+                  "pride_type": "transgender_v"
+                },
+                "minecraft:custom_name": [
+                  {
+                    "color": "#5BCFFA",
+                    "italic": false,
+                    "text": "V"
+                  },
+                  {
+                    "color": "#71CAF1",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#87C4E7",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#9DBFDE",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#B3BAD5",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#C9B5CC",
+                    "text": "c"
+                  },
+                  {
+                    "color": "#DFAFC2",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#F5AAB9",
+                    "text": "l "
+                  },
+                  {
+                    "color": "#F6B6C3",
+                    "text": "T"
+                  },
+                  {
+                    "color": "#F8C2CD",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#F9CED7",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#FBDBE1",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#FCE7EB",
+                    "text": "s"
+                  },
+                  {
+                    "color": "#FEF3F5",
+                    "text": "g"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#FEF3F5",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#FCE7EB",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#FBDBE1",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#F9CED7",
+                    "text": "r "
+                  },
+                  {
+                    "color": "#F8C2CD",
+                    "text": "P"
+                  },
+                  {
+                    "color": "#F6B6C3",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#F5AAB9",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#DFAFC2",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#C9B5CC",
+                    "text": "e "
+                  },
+                  {
+                    "color": "#B3BAD5",
+                    "text": "F"
+                  },
+                  {
+                    "color": "#9DBFDE",
+                    "text": "l"
+                  },
+                  {
+                    "color": "#87C4E7",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#5BCFFA",
+                    "text": "g"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

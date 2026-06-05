@@ -1,0 +1,24 @@
+{
+    "criteria": {
+        "place": {
+            "trigger": "player_interacted_with_entity",
+            "conditions": {
+                "entity": {
+                    "type": ["item_frame"],
+                    "nbt": {
+                        "Item": {
+                            "components": {
+                                "minecraft:custom_data": {
+                                    "pride": true
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "prideflags:_events/place"
+    }
+}

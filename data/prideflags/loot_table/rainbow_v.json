@@ -1,0 +1,134 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "player_head",
+                "!minecraft:food": {},
+                "!minecraft:consumable": {},
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzBhYmMyNTUyM2YyMjVkNjFlZDY3ZjgyNzNiM2VhNWE5NTUyZGUyN2MxM2E4NzYxNDMxNDdiZTU4YzAyYzdkZCJ9fX0="
+                    }
+                  ]
+                },
+                "custom_data": {
+                  "pride": 1,
+                  "pride_type": "rainbow_v"
+                },
+                "minecraft:custom_name": [
+                  {
+                    "italic": false,
+                    "color": "#E50000",
+                    "text": "V"
+                  },
+                  {
+                    "color": "#EA1D00",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#F03B00",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#F55800",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#FB7600",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#FF9100",
+                    "text": "c"
+                  },
+                  {
+                    "color": "#FFA500",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#FFB900",
+                    "text": "l "
+                  },
+                  {
+                    "color": "#FFCE00",
+                    "text": "R"
+                  },
+                  {
+                    "color": "#FFE200",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#EAE503",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#B5CE0A",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#80B811",
+                    "text": "b"
+                  },
+                  {
+                    "color": "#4CA117",
+                    "text": "o"
+                  },
+                  {
+                    "color": "#178A1E",
+                    "text": "w "
+                  },
+                  {
+                    "color": "#027A3D",
+                    "text": "P"
+                  },
+                  {
+                    "color": "#016F6B",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#016499",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#0059C8",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#004EF6",
+                    "text": "e "
+                  },
+                  {
+                    "color": "#143FEB",
+                    "text": "F"
+                  },
+                  {
+                    "color": "#2D2FD2",
+                    "text": "l"
+                  },
+                  {
+                    "color": "#4520BA",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#770088",
+                    "text": "g"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

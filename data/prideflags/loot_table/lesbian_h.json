@@ -1,0 +1,142 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "player_head",
+                "!minecraft:food": {},
+                "!minecraft:consumable": {},
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDUyMWNlMjRjMWE3OTdlYjkzNWFmYzNlYzVmMTk4MjhkZmY2NWNhNDYyMmY5NDYxZmQwOTVlOWFkOTVmZDdiNiJ9fX0="
+                    }
+                  ]
+                },
+                "custom_data": {
+                  "pride": 1,
+                  "pride_type": "lesbian_h"
+                },
+                "minecraft:custom_name": [
+                  {
+                    "italic": false,
+                    "color": "#D62900",
+                    "text": "H"
+                  },
+                  {
+                    "color": "#DC3B0D",
+                    "text": "o"
+                  },
+                  {
+                    "color": "#E34C1A",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#E95E27",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#EF6F34",
+                    "text": "z"
+                  },
+                  {
+                    "color": "#F68141",
+                    "text": "o"
+                  },
+                  {
+                    "color": "#FC924E",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#FFA362",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#FFB27C",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#FFC196",
+                    "text": "l "
+                  },
+                  {
+                    "color": "#FFD1B1",
+                    "text": "L"
+                  },
+                  {
+                    "color": "#FFE0CB",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#FFF0E5",
+                    "text": "s"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "text": "b"
+                  },
+                  {
+                    "color": "#F8E7F1",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#F2CFE3",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#EBB7D5",
+                    "text": "n "
+                  },
+                  {
+                    "color": "#E59EC8",
+                    "text": "P"
+                  },
+                  {
+                    "color": "#DE86BA",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#D76EAC",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#D05AA0",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#C94B96",
+                    "text": "e "
+                  },
+                  {
+                    "color": "#C23C8B",
+                    "text": "F"
+                  },
+                  {
+                    "color": "#BA2D81",
+                    "text": "l"
+                  },
+                  {
+                    "color": "#B31E77",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#A40062",
+                    "text": "g"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

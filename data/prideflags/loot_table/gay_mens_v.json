@@ -1,0 +1,138 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "player_head",
+                "!minecraft:food": {},
+                "!minecraft:consumable": {},
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDcyZWRiOGExN2UwYjIzZDk2ODdlY2NmOGY4OWYyZjg3NjE1MzI1ZjVlZDc0Mjk1NTE2MDg1NjllOWUzOTI2YiJ9fX0="
+                    }
+                  ]
+                },
+                "custom_data": {
+                  "pride": 1,
+                  "pride_type": "gay_mens_v"
+                },
+                "minecraft:custom_name": [
+                  {
+                    "italic": false,
+                    "color": "#018E70",
+                    "text": "V"
+                  },
+                  {
+                    "color": "#199D7D",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#32AB8A",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#4ABA97",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#62C8A4",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#7BD7B2",
+                    "text": "c"
+                  },
+                  {
+                    "color": "#93E5BF",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#A5ECC9",
+                    "text": "l "
+                  },
+                  {
+                    "color": "#B6EFD3",
+                    "text": "G"
+                  },
+                  {
+                    "color": "#C6F3DD",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#D6F6E7",
+                    "text": "y "
+                  },
+                  {
+                    "color": "#E7FAF0",
+                    "text": "M"
+                  },
+                  {
+                    "color": "#F7FDFA",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#F5F9FD",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#E0ECF8",
+                    "text": "'"
+                  },
+                  {
+                    "color": "#CBDFF4",
+                    "text": "s "
+                  },
+                  {
+                    "color": "#B6D2EF",
+                    "text": "P"
+                  },
+                  {
+                    "color": "#A1C5EB",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#8CB9E6",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#79A9DF",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#6F90CE",
+                    "text": "e "
+                  },
+                  {
+                    "color": "#6477BD",
+                    "text": "F"
+                  },
+                  {
+                    "color": "#5A5EAC",
+                    "text": "l"
+                  },
+                  {
+                    "color": "#4F459B",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#3A1379",
+                    "text": "g"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
