@@ -19,6 +19,6 @@
         }
     },
     "rewards": {
-        "function": "prideflags:_events/place"
+        "function": "prideflags:_events/flags/place"
     }
 }

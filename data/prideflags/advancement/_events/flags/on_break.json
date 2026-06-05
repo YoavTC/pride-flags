@@ -15,6 +15,6 @@
         }
     },
     "rewards": {
-        "function": "prideflags:_events/break"
+        "function": "prideflags:_events/flags/break"
     }
 }

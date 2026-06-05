@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "place": {
+            "trigger": "player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "interaction",
+                    "nbt": {
+                        "data": {
+                            "pride_bunting": true
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "prideflags:_events/bunting/break"
+    }
+}
