@@ -1,0 +1,35 @@
+{
+    "type": "crafting_shaped",
+    "key": {
+        "B": "#banners",
+        "L": "lead"
+    },
+    "pattern": [
+        "LLL",
+        "BBB"
+    ],
+    "result": {
+        "id": "chorus_fruit",
+        "components": {
+            "custom_data": {
+                "pride_bunting": true
+            },
+            "!food": {},
+            "!consumable": {},
+            "item_model": "player_head",
+            "minecraft:profile": {
+                "properties": [
+                    {
+                        "name": "textures",
+                        "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MDc1Nzc4ODk3OCwKICAicHJvZmlsZUlkIiA6ICJkYjZiYWRlN2NjMzI0MjM4YjU3OTQ4NzMxNTBkNjA1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJRdWFudHVtQmxvY2tlciIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MmNlNmFjZWZiYTBlMGE1MmJiYjJlODY5ZDYxN2JkMDU2ZWU2YzYyM2NiY2M5ZDI0YWU2YWMyZDRiODBkNzU1IgogICAgfQogIH0KfQ=="
+                    }
+                ]
+            },
+            "custom_name": {
+                "text": "Pride Flag Bunting",
+                "color": "gold",
+                "italic": false
+            }
+        }
+    }
+}
