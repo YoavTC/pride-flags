@@ -1,1 +1,1 @@
-loot spawn ~ ~ ~ loot prideflags:transgender_v
+loot spawn ~ ~ ~ loot prideflags:flags/transgender_v

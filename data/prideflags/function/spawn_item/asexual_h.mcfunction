@@ -1,1 +1,1 @@
-loot spawn ~ ~ ~ loot prideflags:asexual_h
+loot spawn ~ ~ ~ loot prideflags:flags/asexual_h

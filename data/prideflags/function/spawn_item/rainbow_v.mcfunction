@@ -1,1 +1,1 @@
-loot spawn ~ ~ ~ loot prideflags:rainbow_v
+loot spawn ~ ~ ~ loot prideflags:flags/rainbow_v

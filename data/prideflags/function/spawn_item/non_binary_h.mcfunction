@@ -1,1 +1,1 @@
-loot spawn ~ ~ ~ loot prideflags:non_binary_h
+loot spawn ~ ~ ~ loot prideflags:flags/non_binary_h
