@@ -1,11 +1,11 @@
 {
     "criteria": {
         "place": {
-            "trigger": "player_interacted_with_entity",
+            "trigger": "minecraft:player_interacted_with_entity",
             "conditions": {
                 "entity": {
-                    "type": ["item_frame"],
-                    "nbt": {
+                    "minecraft:entity_type": "minecraft:item_frame",
+                    "minecraft:nbt": {
                         "Item": {
                             "components": {
                                 "minecraft:custom_data": {

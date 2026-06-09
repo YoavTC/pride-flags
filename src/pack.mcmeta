@@ -1,17 +1,26 @@
 {
-	"pack": {
-		"description": [
-			{
-				"text": "Pride Flags v1.0\n",
-				"color": "dark_gray"
-			},
-			{
-				"text": "www.yoavtc.work",
-				"color": "blue",
-				"underlined": true
-			}
-		],
-		"min_format": 101,
-		"max_format": 101
-	}
+    "pack": {
+        "description": [
+            {
+                "text": "Pride Flags v1.0\n",
+                "color": "dark_gray"
+            },
+            {
+                "text": "www.yoavtc.work",
+                "color": "blue",
+                "underlined": true
+            }
+        ],
+        "min_format": 101,
+        "max_format": 107
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "data_101",
+                "min_format": 101,
+                "max_format": 101
+            }
+        ]
+    }
 }

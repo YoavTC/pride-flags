@@ -4,8 +4,8 @@
             "trigger": "player_interacted_with_entity",
             "conditions": {
                 "entity": {
-                    "minecraft:entity_type": "minecraft:item_frame",
-                    "minecraft:nbt": {
+                    "type": ["item_frame"],
+                    "nbt": {
                         "Item": {
                             "components": {
                                 "minecraft:custom_data": {

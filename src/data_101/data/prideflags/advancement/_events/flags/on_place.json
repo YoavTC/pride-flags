@@ -4,12 +4,12 @@
             "trigger": "player_interacted_with_entity",
             "conditions": {
                 "entity": {
-                    "minecraft:entity_type": "minecraft:item_frame",
-                    "minecraft:nbt": {
+                    "type": ["item_frame"],
+                    "nbt": {
                         "Item": {
                             "components": {
                                 "minecraft:custom_data": {
-                                    "pride_bunting": true
+                                    "pride": true
                                 }
                             }
                         }
@@ -19,6 +19,6 @@
         }
     },
     "rewards": {
-        "function": "prideflags:_events/bunting/place"
+        "function": "prideflags:_events/flags/place"
     }
 }

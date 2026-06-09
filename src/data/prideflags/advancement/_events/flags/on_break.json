@@ -1,11 +1,11 @@
 {
     "criteria": {
-        "place": {
-            "trigger": "player_hurt_entity",
+        "break": {
+            "trigger": "minecraft:player_hurt_entity",
             "conditions": {
                 "entity": {
-                    "type": "interaction",
-                    "nbt": {
+                    "minecraft:entity_type": "minecraft:interaction",
+                    "minecraft:nbt": {
                         "data": {
                             "pride": true
                         }
