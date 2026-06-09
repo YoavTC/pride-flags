@@ -1,6 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "white_banner",
+  "ingredient": "#banners",
   "result": {
     "id": "minecraft:chorus_fruit",
     "components": {
