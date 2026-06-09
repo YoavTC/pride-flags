@@ -23,8 +23,9 @@ jobs:
           MC_RANGE="${{ github.event.inputs.mc_range }}"
           PRETTY_NAME=$(echo "$REPO_NAME" | tr '-' ' ' | sed 's/\b\(.\)/\u\1/g')
           RELEASE_NAME="${REPO_NAME} v${VERSION} MC${MC_RANGE}"
+          ZIP_NAME="${REPO_NAME}-v${VERSION}-MC${MC_RANGE}.zip"
           PACK_DESCRIPTION="${PRETTY_NAME} v${VERSION} MC${MC_RANGE}"
-          echo "ZIP_NAME=${RELEASE_NAME}.zip" >> $GITHUB_ENV
+          echo "ZIP_NAME=${ZIP_NAME}" >> $GITHUB_ENV
           echo "RELEASE_NAME=${RELEASE_NAME}" >> $GITHUB_ENV
           echo "PACK_DESCRIPTION=${PACK_DESCRIPTION}" >> $GITHUB_ENV
 
