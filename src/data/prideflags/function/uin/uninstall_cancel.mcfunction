@@ -1,0 +1,1 @@
+execute as @a[scores={prideflags.uninstall=1}] run scoreboard players reset @s prideflags.uninstall
