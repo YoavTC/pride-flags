@@ -10,7 +10,7 @@ Add pride flags to the game, no resourcepacks required! 100% multiplayer friendl
 
 - [Modrinth](https://modrinth.com/project/prideflags)
 - [Curseforge](https://www.curseforge.com/minecraft/data-packs/prideflags)
-- [Planet Minecraft]()
+- [Planet Minecraft](https://www.planetminecraft.com/data-pack/pride-flags-6954751/)
 
 ## Uninstalling
 
