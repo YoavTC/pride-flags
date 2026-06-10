@@ -1,0 +1,142 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chorus_fruit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_model": "player_head",
+                "!minecraft:food": {},
+                "!minecraft:consumable": {},
+                "minecraft:profile": {
+                  "properties": [
+                    {
+                      "name": "textures",
+                      "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTg4ZTYwYmY3MDI4MjhmMTIwOTAzODMwODk5YmNiYjczYWM3NWNiY2VhYWRhYjVhYjJjNTlhZGUxNWJlZGFiMyJ9fX0="
+                    }
+                  ]
+                },
+                "custom_data": {
+                  "pride": 1,
+                  "pride_type": "aromantic_v"
+                },
+                "minecraft:custom_name": [
+                  {
+                    "color": "#3AA740",
+                    "italic": false,
+                    "text": "V"
+                  },
+                  {
+                    "color": "#4BAE49",
+                    "text": "e"
+                  },
+                  {
+                    "color": "#5CB552",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#6DBC5B",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#7EC364",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#8FCA6D",
+                    "text": "c"
+                  },
+                  {
+                    "color": "#A0D176",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#AFD784",
+                    "text": "l "
+                  },
+                  {
+                    "color": "#BCDE99",
+                    "text": "A"
+                  },
+                  {
+                    "color": "#C9E5AD",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#D7EBC2",
+                    "text": "o"
+                  },
+                  {
+                    "color": "#E4F2D6",
+                    "text": "m"
+                  },
+                  {
+                    "color": "#F2F8EB",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "text": "n"
+                  },
+                  {
+                    "color": "#F2F2F2",
+                    "text": "t"
+                  },
+                  {
+                    "color": "#E5E5E5",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#D8D8D8",
+                    "text": "c "
+                  },
+                  {
+                    "color": "#CBCBCB",
+                    "text": "P"
+                  },
+                  {
+                    "color": "#BEBEBE",
+                    "text": "r"
+                  },
+                  {
+                    "color": "#B1B1B1",
+                    "text": "i"
+                  },
+                  {
+                    "color": "#9D9E9D",
+                    "text": "d"
+                  },
+                  {
+                    "color": "#838483",
+                    "text": "e "
+                  },
+                  {
+                    "color": "#696969",
+                    "text": "F"
+                  },
+                  {
+                    "color": "#4E4F4E",
+                    "text": "l"
+                  },
+                  {
+                    "color": "#343534",
+                    "text": "a"
+                  },
+                  {
+                    "color": "#000000",
+                    "text": "g"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
