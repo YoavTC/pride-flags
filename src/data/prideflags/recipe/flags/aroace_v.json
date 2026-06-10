@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#banners",
+  "result": {
+    "id": "minecraft:chorus_fruit",
+    "components": {
+      "minecraft:item_model": "player_head",
+      "!minecraft:food": {},
+      "!minecraft:consumable": {},
+      "minecraft:profile": {
+        "properties": [
+          {
+            "name": "textures",
+            "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM0YTNkMGE0MGM5MTUwZTgzN2Y3Y2JiMDA3OThiYzFkMmY1ZTJlMDIzNDc0YWI4MzVlZmFmOWMwMDRiOGI0YSJ9fX0="
+          }
+        ]
+      },
+      "custom_data": {
+        "pride": true,
+        "pride_type": "aroace_v"
+      },
+      "minecraft:custom_name": [{"color":"#E38D00","italic":false,"text":"V"},{"color":"#E59800","text":"e"},{"color":"#E6A400","text":"r"},{"color":"#E8AF00","text":"t"},{"color":"#EABA00","text":"i"},{"color":"#ECC600","text":"c"},{"color":"#EED00B","text":"a"},{"color":"#F1D937","text":"l "},{"color":"#F4E164","text":"A"},{"color":"#F7EA90","text":"r"},{"color":"#FAF2BC","text":"o"},{"color":"#FDFBE9","text":"a"},{"color":"#F1F8FC","text":"c"},{"color":"#D6EAF6","text":"e "},{"color":"#BBDDF0","text":"P"},{"color":"#9FCFEA","text":"r"},{"color":"#84C1E4","text":"i"},{"color":"#69B3DE","text":"d"},{"color":"#59A0CB","text":"e "},{"color":"#4C8BB4","text":"F"},{"color":"#40759C","text":"l"},{"color":"#336084","text":"a"},{"color":"#1A3555","text":"g"}]
+    }
+  }
+}
